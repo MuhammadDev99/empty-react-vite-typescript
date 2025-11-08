@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@preact/signals-react": "^3.4.0",
+    "@preact/signals-react-transform": "^0.6.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
