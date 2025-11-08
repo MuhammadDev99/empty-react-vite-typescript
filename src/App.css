@@ -5,3 +5,9 @@
     justify-content: center;
     zoom: 5;
 }
+
+.cat {
+    display: flex;
+    height: 200px;
+    margin: auto;
+}
